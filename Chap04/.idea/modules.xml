@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DecisionTree.iml" filepath="$PROJECT_DIR$/DecisionTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chap04.iml" filepath="$PROJECT_DIR$/.idea/Chap04.iml" />
     </modules>
   </component>
 </project>
